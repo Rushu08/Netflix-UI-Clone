@@ -1,2 +1,2 @@
 # Netflix-UI-Clone
-Buit a Netflix UI clone using HTML CSS
+Buit a Netflix UI clone using HTML CSS & JavaScript
